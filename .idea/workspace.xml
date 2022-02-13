@@ -12,20 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/branding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/branding/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/hosting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/hosting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/javascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/web-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/web-design/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +74,7 @@
       <updated>1644584534672</updated>
       <workItem from="1644584535770" duration="12431000" />
       <workItem from="1644602506955" duration="620000" />
-      <workItem from="1644768400095" duration="6582000" />
+      <workItem from="1644768400095" duration="6718000" />
     </task>
     <servers />
   </component>

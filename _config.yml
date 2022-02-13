@@ -25,7 +25,7 @@ logo:
 seo:
   meta_twitter_site: "@dutyventures"
   meta_twitter_creator: "@dutyventures"
-  meta_og_image: "https://www.zerostatic.io/theme/jekyll-atlantic/jekyll-atlantic-screenshot.png"
+  meta_og_image: "assets/images/screenshot.png"
 
 plugins:
   - jekyll-environment-variables
