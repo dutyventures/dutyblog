@@ -1,0 +1,13 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Blog"
+    url: "/blog/"
+    weight: 2
+  - name: "Categories"
+    url: "/categories/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 3
