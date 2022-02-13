@@ -11,76 +11,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/09/9a8867a696e16b0da34ab4a742a2e22349097db2dffc33ff607e586072d853" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/65/24100c4f9037cb5076c30f396fda5e097a3f0423ad36e269420b765a188576" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a0/e083406f578c62f05afb15dadaa5eefb2e3b48a69a53ec08a57eab3b9da61f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a2/34e54e71bd384f1faf3d7ae8fae3722081f5f29bb0c359c10c01fd6dd34221" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/posts/blog1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/posts/blog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/posts/blog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/author/cosmin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/author/raluca.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2019-06-18-why-you-should-work-for-a-startup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2020-09-09-clutch-award.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2021-02-01-mvp.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/menu.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/social.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author-large.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-large.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/category-badge.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/category-badge.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/heading.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/heading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/mobile-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/mobile-menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/summary-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/summary-category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/author/mike-vance.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/author/sage-kirk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/logo/logo-mobile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/logo/logo-mobile.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/logo/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/logo/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/unsplash-CTivHyiTbFw-640x360.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2018-12-20-designing-your-brand/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2018-12-20-optimizing-your-website/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2018-12-29-hosting-your-static-site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2018-12-29-styling-css/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2018-12-29-writing-with-markdown/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/page2/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/branding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/branding/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/development/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/hosting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/hosting/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/javascript/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/web-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/web-design/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/author/mike-vance.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/author/sage-kirk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo-mobile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo-mobile.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/unsplash-CTivHyiTbFw-640x360.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2018-12-20-designing-your-brand.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2018-12-20-optimizing-your-website.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2018-12-29-hosting-your-static-site.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2018-12-29-styling-css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2018-12-29-writing-with-markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +87,7 @@
       <updated>1644584534672</updated>
       <workItem from="1644584535770" duration="12431000" />
       <workItem from="1644602506955" duration="620000" />
-      <workItem from="1644768400095" duration="6252000" />
+      <workItem from="1644768400095" duration="6582000" />
     </task>
     <servers />
   </component>
