@@ -7,8 +7,10 @@
     <img height="48" width="48" class="rounded-full border-white border-2" src="{{ author_object.image | relative_url }}" alt="{{ author_object.name }}"/>
   {% endif %}
   <div>
-    <span class="font-medium text-sm ml-1 block">{{ author_object.name }}</span>
-    <a class="text-sm ml-1 block text-green-400" href="https://www.twitter.com/{{ author_object.twitter }}">{{ author_object.twitter }}</a>
+    <span class="font-medium text-sm ml-1 block" href="https://www.linkedin.com/{{ author_object.linkedin }}">{{ author_object.name }}</span>
+    <span class="font-medium text-sm ml-1 block">Linkedin:<a class="text-sm ml-1 text-blue-700" href="https://www.linkedin.com/{{ author_object.linkedin }}">{{ author_object.linkedin }}</a></span>
+    <span class="font-medium text-sm ml-1 block">Github:<a class="text-sm ml-1 text-blue-700" href="https://www.github.com/{{ author_object.github }}">{{ author_object.github }}</a></span>
+
   </div>
 </div>
 {% endif %}

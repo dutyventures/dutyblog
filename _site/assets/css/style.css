@@ -1905,9 +1905,9 @@ video {
 .heading em, .heading strong {
     margin-bottom: 0.5rem;
     background-image: linear-gradient(to right, var(--tw-gradient-stops));
-    --tw-gradient-from: #34d399;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(52, 211, 153, 0));
-    --tw-gradient-to: #3b82f6;
+    --tw-gradient-from: #a78bfa;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(167, 139, 250, 0));
+    --tw-gradient-to: #1e40af;
     -webkit-background-clip: text;
             background-clip: text;
     color: transparent;
@@ -1922,9 +1922,9 @@ video {
 .logo h2 strong {
       margin-bottom: 0.5rem;
       background-image: linear-gradient(to right, var(--tw-gradient-stops));
-      --tw-gradient-from: #34d399;
-      --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(52, 211, 153, 0));
-      --tw-gradient-to: #3b82f6;
+      --tw-gradient-from: #a78bfa;
+      --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(167, 139, 250, 0));
+      --tw-gradient-to: #1e40af;
       -webkit-background-clip: text;
               background-clip: text;
       color: transparent;
@@ -174018,3 +174018,4 @@ body {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 }
+

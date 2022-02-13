@@ -1,8 +1,11 @@
-sage_kirk:
-  name: 'Sage Kirk'
-  image: 'assets/images/author/sage-kirk.jpg'
-  twitter: '@zerostaticio'
-mike_vance:
-  name: 'Mike Vance'
-  image: 'assets/images/author/mike-vance.jpg'
-  twitter: '@zerostaticio'
+raluca_rusu:
+  name: 'Raluca Rusu'
+  image: 'assets/images/author/raluca.jpg'
+  github: '@ralucarusu'
+  linkedin: '@ralucarusu'
+
+cosmin_rusu:
+  name: 'Cosmin Rusu'
+  image: 'assets/images/author/cosmin.jpg'
+  github: '@cosminrusu'
+  linkedin: '@cosminrusu'

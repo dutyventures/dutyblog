@@ -10,4 +10,4 @@ main:
     weight: 3
   - name: "About"
     url: "/about/"
-    weight: 3
+    weight: 4

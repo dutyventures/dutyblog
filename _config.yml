@@ -1,6 +1,6 @@
 baseurl: "/"
 permalink: pretty
-title: "Duty Blog"
+title: "Software & Business"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge

@@ -8,5 +8,10 @@
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
     "image": "https://simpleicons.org/icons/twitter.svg"
+  },
+  {
+    "name": "Linkedin",
+    "link": "https://linkedin.com",
+    "image": "https://simpleicons.org/icons/linkedin.svg"
   }
 ]
