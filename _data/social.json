@@ -1,17 +1,17 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-atlantic-theme",
+    "link": "https://github.com/dutyventures",
     "image": "https://simpleicons.org/icons/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "https://simpleicons.org/icons/twitter.svg"
+    "name": "Clutch",
+    "link": "https://clutch.co/profile/duty-labs",
+    "image": "https://static2.clutch.co/s3fs-public/new_clutch_icon_dark_blue_2_0.png"
   },
   {
     "name": "Linkedin",
-    "link": "https://linkedin.com",
+    "link": "https://www.linkedin.com/company/dutyventures/",
     "image": "https://simpleicons.org/icons/linkedin.svg"
   }
 ]

@@ -1,11 +1,13 @@
 raluca_rusu:
   name: 'Raluca Rusu'
   image: 'assets/images/author/raluca.jpg'
-  github: '@ralucarusu'
-  linkedin: '@ralucarusu'
+  github: 'rusuraluca'
+  linkedin: 'ralucamariarusu'
+  twitter: 'itsralucarusu'
 
 cosmin_rusu:
   name: 'Cosmin Rusu'
   image: 'assets/images/author/cosmin.jpg'
-  github: '@cosminrusu'
-  linkedin: '@cosminrusu'
+  github: 'rusucosmin'
+  linkedin: 'rusucosmin'
+  twitter: 'rusuio'
