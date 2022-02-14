@@ -1,7 +1,7 @@
 {
-  "name": "jekyll-atlantic",
+  "name": "duty_blog",
   "version": "1.0.0",
-  "description": "A Jekyll Tailwind starter blog",
+  "description": "Jekyll Tailwind Blog",
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.2.6",
@@ -10,7 +10,5 @@
     "postcss-import": "^14.0.2",
     "postcss-nested": "^5.0.6",
     "tailwindcss": "^2.2.4"
-  },
-  "author": "rob@zerostatic.io",
-  "license": "MIT"
+  }
 }
