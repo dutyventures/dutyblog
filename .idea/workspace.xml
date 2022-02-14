@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/clutch.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/_posts/2020-09-09-clutch-award.md" beforeDir="false" afterPath="$PROJECT_DIR$/collections/_posts/2020-09-09-clutch-award.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <workItem from="1644602506955" duration="620000" />
       <workItem from="1644768400095" duration="6823000" />
       <workItem from="1644824654179" duration="53000" />
-      <workItem from="1644824718645" duration="2963000" />
+      <workItem from="1644824718645" duration="3175000" />
     </task>
     <servers />
   </component>
@@ -127,5 +128,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-587.-1415.2560.1415@0.0.1440.900" timestamp="1644602210484" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1644828727089">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-587.-1415.2560.1415@0.0.1440.900" timestamp="1644828727089" />
   </component>
 </project>
