@@ -25,7 +25,7 @@ logo:
 seo:
   meta_twitter_site: "@dutyventures"
   meta_twitter_creator: "Duty Ventures"
-  meta_og_image: "assets/images/screenshot.png"
+  meta_og_image: "https://imgur.com/bRgUhVC.png"
 
 plugins:
   - jekyll-environment-variables

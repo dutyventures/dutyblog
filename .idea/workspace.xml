@@ -11,17 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/images/seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/seo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/09/9a8867a696e16b0da34ab4a742a2e22349097db2dffc33ff607e586072d853" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a0/e083406f578c62f05afb15dadaa5eefb2e3b48a69a53ec08a57eab3b9da61f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a2/34e54e71bd384f1faf3d7ae8fae3722081f5f29bb0c359c10c01fd6dd34221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bf/a32df0b6db7cabbef5df3562d6d194a5a0c2b9aafca75dcae348626cb73736" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/social.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author-large.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-large.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2019-06-18-why-you-should-work-for-a-startup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2020-09-09-clutch-award/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/2021-02-01-mvp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/branding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/branding/index.html" afterDir="false" />
@@ -30,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/_site/category/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/javascript/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/category/web-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/web-design/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,24 +52,24 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/logo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/collections/_posts" />
+      <recent name="$PROJECT_DIR$/join-us" />
+      <recent name="$PROJECT_DIR$/hire-us" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/posts" />
       <recent name="$PROJECT_DIR$/assets/images/logo" />
       <recent name="$PROJECT_DIR$/assets/images/author" />
       <recent name="$PROJECT_DIR$/_includes" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/logo" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/collections/_posts" />
-      <recent name="$PROJECT_DIR$/join-us" />
-      <recent name="$PROJECT_DIR$/hire-us" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,7 +94,7 @@
       <workItem from="1644602506955" duration="620000" />
       <workItem from="1644768400095" duration="6823000" />
       <workItem from="1644824654179" duration="53000" />
-      <workItem from="1644824718645" duration="1539000" />
+      <workItem from="1644824718645" duration="2296000" />
     </task>
     <servers />
   </component>
