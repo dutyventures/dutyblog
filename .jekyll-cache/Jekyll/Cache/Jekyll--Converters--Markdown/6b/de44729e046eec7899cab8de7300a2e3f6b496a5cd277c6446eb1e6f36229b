@@ -1,0 +1,21 @@
+I"�<h1 id="what-is-an-mvp-minimum-viable-product">What is an MVP (Minimum Viable Product)?</h1>
+
+<p>An MVP (Minimum viable product) is a basic, launchable version of the product that supports minimal yet must-have features (which define its value proposition). An MVP is created with an intent to enable faster time to market, attract early adopters, and achieve product-market fit from early on.</p>
+
+<p><img src="http://localhost:4000/assets/images/posts/mvp_development.png" alt="MVP " /></p>
+
+<h1 id="what-is-the-mvp-development-process">What is the MVP Development Process?</h1>
+
+<p>An MVP has just the basic functionalities that demonstrate the product and its ability to solve a user problem.</p>
+
+<p>It is building a slice across the whole development process rather than one layer at a time.</p>
+
+<p>Less development time means lower development costs. The faster the product is launched to users, the faster the business will receive feedback. This means they can work on improving their product, and release an updated version quickly.</p>
+
+<p><img src="http://localhost:4000/assets/images/posts/mvp_development.png" alt="MVP Development Approach" /></p>
+
+<p>In order to build the smallest functioning version of our product, we need to identify the core features that we can’t do without, and the “nice to have” features we need to save for later iterations.</p>
+
+<p>Thankfully, there are dozens of different frameworks for prioritizing your feature list, including the <a href="https://en.wikipedia.org/wiki/MoSCoW_method">MoSCoW method</a>: a way of splitting your features list into Must Haves, Should Haves, Could Haves, and Won’t Haves:</p>
+
+:ET

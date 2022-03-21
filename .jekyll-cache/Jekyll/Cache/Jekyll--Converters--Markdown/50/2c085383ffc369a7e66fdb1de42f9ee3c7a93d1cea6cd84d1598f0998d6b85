@@ -1,0 +1,67 @@
+I"�<h1 id="what-is-an-mvp-minimum-viable-product">What is an MVP (Minimum Viable Product)?</h1>
+
+<p>An MVP (Minimum viable product) is a basic, launchable version of the product that supports minimal yet must-have features (which define its value proposition). An MVP is created with an intent to enable faster time to market, attract early adopters, and achieve product-market fit from early on.</p>
+
+<p><img src="http://localhost:4000/assets/images/posts/mvp_map.png" alt="MVP Map" /></p>
+
+<h1 id="what-is-the-mvp-development-process">What is the MVP Development Process?</h1>
+
+<p>An MVP has just the basic functionalities that demonstrate the product and its ability to solve a user problem.</p>
+
+<p>It is building a slice across the whole development process rather than one layer at a time.</p>
+
+<p>Less development time means lower development costs. The faster the product is launched to users, the faster the business will receive feedback. This means they can work on improving their product, and release an updated version quickly.</p>
+
+<p><img src="http://localhost:4000/assets/images/posts/mvp_development.png" alt="MVP Development Approach" /></p>
+
+<p>In order to build the smallest functioning version of our product, we need to identify the core features that we can’t do without, and the “nice to have” features we need to save for later iterations.</p>
+
+<p>Thankfully, there are dozens of different frameworks for prioritizing your feature list, including the <a href="https://en.wikipedia.org/wiki/MoSCoW_method">MoSCoW method</a>: a way of splitting your features list into Must Haves, Should Haves, Could Haves, and Won’t Haves:</p>
+
+<h3 id="must-have">MUST HAVE</h3>
+<p>These are the bare-bones features that are inextricably linked to the functionality of your product. The features that end up here constitute the backbone of your Minimum Viable Product.</p>
+
+<h3 id="should-have">SHOULD HAVE</h3>
+<p>These are features that a finished product needs to have, but aren’t essential for this early-stage iteration. For example, you know your product will eventually need an automated password recovery system, but you can use a manual email support system for your MVP.</p>
+
+<h3 id="could-have">COULD HAVE</h3>
+<p>This is where all of your desirable, added-extra functionality goes: ready to be built out only once you’ve tested the core functionality of your product.</p>
+
+<h3 id="wont-have">WON’T HAVE</h3>
+<p>Sometimes, it can be valuable to define the high resource, low reward features your product shouldn’t have.</p>
+
+<h1 id="advantages-of-mvps">Advantages of MVPs</h1>
+
+<p>If you haven’t decided if building an MVP is a good idea, 
+we prepared a list of advantages for it:</p>
+<ul>
+  <li>It will save you money &amp; development with minimal risks.
+    <ul>
+      <li>Building a new product can be expensive, but starting with an MVP will reduce your entire cost.</li>
+    </ul>
+  </li>
+  <li>Verify market demand.
+    <ul>
+      <li>You will have a clear analysis from the beginning, and the users will validate the idea in its early stages.</li>
+    </ul>
+  </li>
+  <li>
+    <p>A better understanding of the users’ needs. Build a product that people use.</p>
+
+    <ul>
+      <li>Whether, or not your idea gets validated, you will know exactly what can be improved in the future.</li>
+    </ul>
+  </li>
+  <li>Quicker release.
+    <ul>
+      <li>Your idea will see the light of the day really fast, even if in a raw shape.</li>
+    </ul>
+  </li>
+  <li>Attention from investors.
+    <ul>
+      <li>MVP is a showcase of your concept. It allows you to show your concept instead of talking about it for hours. Moreover, if you get people to use the product and find value in it, your chances of getting the investments raise drastically.</li>
+    </ul>
+  </li>
+</ul>
+
+:ET
