@@ -10,7 +10,9 @@ thumbnail: "/assets/images/posts/blog5.jpg"
 image: "/assets/images/posts/blog5.jpg"
 ---
 
-# A remote software development team is essential for your success. Read this to find out why !
+# A remote software development team is essential for your success. 
+
+# Read this to find out why !
 
 Have you ever thought about outsourcing your software project? It may be the ideal solution for your business or directly for you and your company!
 
