@@ -66,11 +66,11 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
-  jekyll (~> 4.1)
+  jekyll (~> 4.2.1)
   jekyll-environment-variables
   jekyll-paginate
   jekyll-postcss
-  webrick (~> 1.7)
+  webrick
 
 BUNDLED WITH
    2.3.7
