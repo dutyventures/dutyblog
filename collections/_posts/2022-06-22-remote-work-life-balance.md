@@ -14,11 +14,11 @@ Remote working has numerous advantages, one of which is that it convinces both c
 
 However, there are also drawbacks to remote working, such as a risk of employee burnout, as many individuals struggle to disconnect after work. 
 
-## To renew your passion, it's important that you cultivate a sense of harmony, calmness, and peace of mind.
+To renew your passion, it's important that you cultivate a sense of harmony, calmness, and peace of mind.
 
 ----------------------
 
-##  But how can you unplug when you finish your shift? 
+## But how can you unplug when you finish your shift? 
 ## Set boundaries.
 
 ----------------------
