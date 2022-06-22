@@ -7,7 +7,7 @@ categories: ["Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product"
 tags: ["Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 description: "Only when you can find methods to disconnect and recharge your soul after work, you will feel more in charge of your wellbeing and will be less likely to be subject to stress."
 thumbnail: "/assets/images/posts/blog6.jpg"
-image: "/assets/images/posts/blog.jpg"
+image: "/assets/images/posts/blog6.jpg"
 ---
 
 Remote working has numerous advantages, one of which is that it convinces both companies and workers in terms of work/life balance. 
