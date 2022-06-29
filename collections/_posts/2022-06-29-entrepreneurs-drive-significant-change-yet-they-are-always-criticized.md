@@ -6,8 +6,8 @@ authors: ["Raluca Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 description: "It takes a lot of effort to start a business."
-thumbnail: "/assets/images/posts/blog7.jpg"
-image: "/assets/images/posts/blog7.jpg"
+thumbnail: "/assets/images/posts/blog7.png"
+image: "/assets/images/posts/blog7.png"
 ---
 
 It takes a lot of effort to start a business. Anyone who tells you that it isn't is either lying or has never begun one. The hours are long, the sacrifices are tremendous, and every day seems to bring new issues and obstacles. If you lack the mental strength to deal with these challenges, your company may crumble quicker than it started.
