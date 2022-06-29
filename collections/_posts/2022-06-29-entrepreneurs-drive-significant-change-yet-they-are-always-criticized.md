@@ -2,7 +2,7 @@
 title: "Entrepreneurs drive significant change, yet they are always criticized"
 date: 2022-06-29T09:49:03+10:00
 layout: post
-authors: ["Raluca Rusu"]
+authors: ["Cosmin Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 description: "It takes a lot of effort to start a business."
