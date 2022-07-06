@@ -1,5 +1,5 @@
 ---
-title: "how to combat procrastination as a remote developer?"
+title: "How to combat procrastination as a remote developer?"
 date: 2022-06-29T09:49:03+10:00
 layout: post
 authors: ["Raluca Rusu"]
@@ -53,7 +53,7 @@ Even if you are not working on large projects, it is still beneficial to list ea
 When you don't know when something is due, it's easy to put it off. Clear deadlines let you fully understand exactly when a work has to be done. You may then prepare properly to ensure that everything is completed on schedule. After all, you can't expect to do decent work if you don't know when it's due in the first place.
 
 
-##Final word
+## Final word
 
 While you might try to force yourself out of procrastination by adopting a "just do it" mentality, these methods are only successful in the short term. In the long term, connecting your work to greater goals is the most effective approach to quit procrastinating.
 
