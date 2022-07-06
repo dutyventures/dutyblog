@@ -1,6 +1,6 @@
 ---
 title: "How to combat procrastination as a remote developer?"
-date: 2022-06-29T09:49:03+10:00
+date: 2022-07-06T09:49:03+10:00
 layout: post
 authors: ["Raluca Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
