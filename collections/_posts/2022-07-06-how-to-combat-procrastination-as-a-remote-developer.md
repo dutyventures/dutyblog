@@ -6,8 +6,8 @@ authors: ["Raluca Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 description: "Doesn’t seem like a simple problem of laziness anymore, does it?"
-thumbnail: "/assets/images/posts/blog8.jpg"
-image: "/assets/images/posts/blog8.jpg"
+thumbnail: "/assets/images/posts/blog8.png"
+image: "/assets/images/posts/blog8.png"
 ---
 
 Writing good code involves a specific mindset. Regardless of skill level, a programmer can write decent (in their opinion) code in only a few hours every day (maybe even less). If you believe you can write decent code all day, every day, you've probably outgrown your current job and it's time to move on to more serious stuff (for example, learn how to automate it).
