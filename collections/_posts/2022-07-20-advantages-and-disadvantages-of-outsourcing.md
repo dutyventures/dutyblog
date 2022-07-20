@@ -1,5 +1,5 @@
 ---
-title: "How to combat procrastination as a remote developer?"
+title: "Advantages and disadvantages of outsourcing"
 date: 2022-07-06T09:49:03+10:00
 layout: post
 authors: ["Cosmin Rusu"]
