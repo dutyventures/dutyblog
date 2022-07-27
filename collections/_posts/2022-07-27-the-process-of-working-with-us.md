@@ -1,6 +1,6 @@
 ---
 title: "The process of working with us."
-date: 2022-06-29T09:49:03+10:00
+date: 2022-07-27T09:49:03+10:00
 layout: post
 authors: ["Cosmin Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
