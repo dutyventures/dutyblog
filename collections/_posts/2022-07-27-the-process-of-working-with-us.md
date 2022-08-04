@@ -68,6 +68,7 @@ We understand that a successful product requires more than just technology, thus
 
 
 We hope you will find this article useful before you start working with us.
+
 If you want some specific details about how we can help you or if you want a piece of advice from professionals, please [contact us](https://dutyventures.com) directly and we are happy to jump on a
 FREE consulting call. 
 
