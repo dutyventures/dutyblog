@@ -125,7 +125,7 @@ dozen other companies are vying for tech talent.
 As a result, you may face some challenges with finding
  replacements and therefore lose precious time.  
 
-### Summary
+## Summary
 
 If you're still weighing remote software teams vs. in-house, 
 we should admit that both models have their benefits and shortcomings, 
