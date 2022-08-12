@@ -1,6 +1,6 @@
 ---
 title: "In-House vs Remote Software Development Team: What Should You Choose?"
-date: 2022-08-17T09:49:03+10:00
+date: 2022-08-11T09:49:03+10:00
 layout: post
 authors: ["Cosmin Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]

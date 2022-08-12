@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-08-17-in-house-vs-remote-teams.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/_posts/2022-08-17-in-house-vs-remote-teams.md" beforeDir="false" afterPath="$PROJECT_DIR$/collections/_posts/2022-08-17-in-house-vs-remote-teams.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <workItem from="1658929780431" duration="865000" />
       <workItem from="1659618598585" duration="436000" />
       <workItem from="1659793915757" duration="761000" />
-      <workItem from="1660307412252" duration="1429000" />
+      <workItem from="1660307412252" duration="1758000" />
     </task>
     <servers />
   </component>
