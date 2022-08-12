@@ -6,10 +6,7 @@ authors: ["Cosmin Rusu"]
 categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
 description: "If you have a software idea, the reasonable question is how you will turn it into a reality. 
-In many scenarios, it’s not even a question of how you will develop but who is going to work on it. 
-The question of offshore development center (ODC) vs. in-house squads starts with realizing that your local talent pool no longer limits you. 
-Instead, in the connected world we live in, you can assemble an ODC remote center consisting of talented people scattered worldwide and work with them virtually as if they were next door. 
-Let’s dive in and take a closer look at how you can organize the remote software development process."
+In many scenarios, it’s not even a question of how you will develop but who is going to work on it."
 thumbnail: "/assets/images/posts/blog12.png"
 image: "/assets/images/posts/blog12.png"
 ---
