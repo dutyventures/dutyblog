@@ -159,7 +159,6 @@ Always on duty,
 Duty Team
 
 #### Resources:
-https://mintymint.net/blog/business/in-house-vs-remote-team/
-
-https://ncube.com/blog/in-house-vs-remote-software-development-team-which-one-is-best-for-you
+[MintyMint](https://mintymint.net/blog/business/in-house-vs-remote-team/)
+[NCube](https://ncube.com/blog/in-house-vs-remote-software-development-team-which-one-is-best-for-you)
 
