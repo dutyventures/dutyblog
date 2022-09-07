@@ -16,18 +16,18 @@ Companies or individuals tend to hire software developers to help them with thei
 
 ## The entry-level
 Entry-level developers or junior engineers are new developers that have the necessary skills to be able to achieve some simple tasks. They work with mid-level and senior-level software engineers to test, develop and update software applications or programs and are usually assigned to work on routine tasks helping familiarize them with the codebase of the company and develop their programming skills. After gaining some more experience and working on more complex projects entry-level software engineers would move into more senior roles.
-##### Experience: 0-2 years
-##### Cost: $20 to $40 per hour
+#### Experience: 0-2 years
+#### Cost: $20 to $40 per hour
 
 ## The mid-level
 They are relatively experienced programmers who have already spent some years in this profession, their coding skills are more complete, and have already worked on other projects. They usually have enough experience to work on projects independently but should still be supervised by other senior developers to ensure minimal errors. They usually work as part of a team so they can have each other check for errors in the code thread. Mid-level developers are a good choice as long as the project is not too complex.
-##### Experience: 2-4 years
-##### Cost: $40 to $50 per hour
+#### Experience: 2-4 years
+#### Cost: $40 to $50 per hour
 
 ## The senior-level or software engineer
 They perform various development duties, such as coding and web development. They may also specialize in a specific area, oversee projects, and manage other junior developers. They are the developers that can also offer their expertise in marketing and the business transactions of their company. Unlike the other categories, senior-level developers can write custom macros, optimize the IDE and solve most of the problems they encounter. You’ll often see this type of developer take the role of the project manager in remote teams, because of their experience.
-##### Experience: 5+ years
-##### Cost: $60 to $100 per hour
+#### Experience: 5+ years
+#### Cost: $60 to $100 per hour
 
 ----
 
