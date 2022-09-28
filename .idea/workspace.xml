@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-09-14-take-a-break.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-09-27-stay-healty-remote.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +92,9 @@
       <workItem from="1661783287184" duration="157000" />
       <workItem from="1661923537916" duration="651000" />
       <workItem from="1662557442646" duration="1035000" />
-      <workItem from="1663171987789" duration="504000" />
+      <workItem from="1663171987789" duration="675000" />
+      <workItem from="1663587135312" duration="11000" />
+      <workItem from="1664378676072" duration="406000" />
     </task>
     <servers />
   </component>
