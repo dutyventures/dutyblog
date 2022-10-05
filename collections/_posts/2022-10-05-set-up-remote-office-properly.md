@@ -3,8 +3,8 @@ title: "How to set up your remote office properly?"
 date: 2022-10-04T07:00:00+10:00
 layout: post
 authors: ["Raluca Rusu"]
-categories: ["Remote Teams", "Entrepreneurs", "Entrepreneurship", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
-tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams", "Outsource Software", "Start-ups", "MVP", "Product", "Development", "Testing", "Launching"]
+categories: ["Entrepreneurs", "Entrepreneurship", "Remote Teams"]
+tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams"]
 description: "Having a remote office can be essential or simply a way to work in a different atmosphere, one that is more relaxed, efficient, and fun. However, most people are afraid to invest in it because they do not know how they will use it. To make this transition easier, we recommend starting small with just one or two items and setting up your remote office properly until you feel comfortable."
 thumbnail: "/assets/images/posts/blog17.png"
 image: "/assets/images/posts/blog17.png"
