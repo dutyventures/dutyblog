@@ -11,8 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-10-12-is-remote-work-for-you.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2022-10-05-set-up-remote-office-properly.md" beforeDir="false" afterPath="$PROJECT_DIR$/collections/_posts/2022-10-05-set-up-remote-office-properly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog15.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +42,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/posts" />
-      <recent name="$PROJECT_DIR$/assets/images/logo" />
-      <recent name="$PROJECT_DIR$/assets/images/author" />
-      <recent name="$PROJECT_DIR$/_includes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/collections/_posts" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/logo" />
       <recent name="$PROJECT_DIR$/join-us" />
       <recent name="$PROJECT_DIR$/hire-us" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
+      <recent name="$PROJECT_DIR$/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/assets/images/author" />
+      <recent name="$PROJECT_DIR$/_includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,7 +96,8 @@
       <workItem from="1663171987789" duration="675000" />
       <workItem from="1663587135312" duration="11000" />
       <workItem from="1664378676072" duration="826000" />
-      <workItem from="1664982492327" duration="740000" />
+      <workItem from="1664982492327" duration="847000" />
+      <workItem from="1665579829217" duration="891000" />
     </task>
     <servers />
   </component>
@@ -121,9 +124,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="273" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1664982607741" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1657117549884">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1665587197448">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-587.-1415.2560.1415@0.0.1440.900" timestamp="1657117549884" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1665587197448" />
   </component>
 </project>
