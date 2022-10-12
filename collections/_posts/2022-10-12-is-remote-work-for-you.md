@@ -1,5 +1,5 @@
 ---
-title: "How to set up your remote office properly?"
+title: "Is remote work made for you?"
 date: 2022-10-11T07:00:00+10:00
 layout: post
 authors: ["Raluca Rusu"]
