@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/collections/_posts/2022-10-12-is-remote-work-for-you.md" beforeDir="false" afterPath="$PROJECT_DIR$/collections/_posts/2022-10-12-is-remote-work-for-you.md" afterDir="false" />
-    </list>
+    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,8 @@
       <workItem from="1663587135312" duration="11000" />
       <workItem from="1664378676072" duration="826000" />
       <workItem from="1664982492327" duration="847000" />
-      <workItem from="1665579829217" duration="956000" />
+      <workItem from="1665579829217" duration="1201000" />
+      <workItem from="1666271083918" duration="620000" />
     </task>
     <servers />
   </component>
