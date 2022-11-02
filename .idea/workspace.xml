@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-10-26-stay-productive-while-working-remotely.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog21-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog21-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-11-02-staying-active-while-working-remotely.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +99,8 @@
       <workItem from="1664982492327" duration="847000" />
       <workItem from="1665579829217" duration="1201000" />
       <workItem from="1666271083918" duration="1157000" />
-      <workItem from="1666784760759" duration="493000" />
+      <workItem from="1666784760759" duration="675000" />
+      <workItem from="1667405074070" duration="420000" />
     </task>
     <servers />
   </component>
