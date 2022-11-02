@@ -6,8 +6,8 @@ authors: ["Raluca Rusu"]
 categories: ["Entrepreneurs", "Entrepreneurship", "Remote Teams"]
 tags: ["Entrepreneurs", "Entrepreneurship", "Remote Teams"]
 description: "If you work from home on a daily basis you might have noticed that your interactions are limited. On top of that, if you live alone, your daily interactions are even more diminished. It is important for you and your mental health to stay active, so you can be efficient in your daily tasks and stay healthy."
-thumbnail: "/assets/images/posts/blog21-2.png"
-image: "/assets/images/posts/blog21-2.png"
+thumbnail: "/assets/images/posts/blog21-1.png"
+image: "/assets/images/posts/blog21-1.png"
 ---
 
 And this is much less complicated than it sounds, the goal is to have social interactions with other people and not to stay locked up at home all day.
