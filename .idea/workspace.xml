@@ -11,9 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog21-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog21-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-11-02-staying-active-while-working-remotely.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-11-09-take-care-of-your-body-as-a-remote-worker.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +35,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/collections/_posts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/posts" />
-      <recent name="$PROJECT_DIR$/assets/images/logo" />
-      <recent name="$PROJECT_DIR$/assets/images/author" />
-      <recent name="$PROJECT_DIR$/_includes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/collections/_posts" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/logo" />
       <recent name="$PROJECT_DIR$/join-us" />
       <recent name="$PROJECT_DIR$/hire-us" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
+      <recent name="$PROJECT_DIR$/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/assets/images/author" />
+      <recent name="$PROJECT_DIR$/_includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,7 +104,8 @@
       <workItem from="1665579829217" duration="1201000" />
       <workItem from="1666271083918" duration="1157000" />
       <workItem from="1666784760759" duration="675000" />
-      <workItem from="1667405074070" duration="420000" />
+      <workItem from="1667405074070" duration="664000" />
+      <workItem from="1668004110714" duration="408000" />
     </task>
     <servers />
   </component>
