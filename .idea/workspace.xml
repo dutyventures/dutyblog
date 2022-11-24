@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/_posts/2022-11-09-take-care-of-your-body-as-a-remote-worker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,18 +43,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
+      <recent name="$PROJECT_DIR$/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/assets/images/author" />
+      <recent name="$PROJECT_DIR$/_includes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/collections/_posts" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/logo" />
       <recent name="$PROJECT_DIR$/join-us" />
       <recent name="$PROJECT_DIR$/hire-us" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/posts" />
-      <recent name="$PROJECT_DIR$/assets/images/logo" />
-      <recent name="$PROJECT_DIR$/assets/images/author" />
-      <recent name="$PROJECT_DIR$/_includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,7 +102,8 @@
       <workItem from="1666271083918" duration="1157000" />
       <workItem from="1666784760759" duration="675000" />
       <workItem from="1667405074070" duration="664000" />
-      <workItem from="1668004110714" duration="408000" />
+      <workItem from="1668004110714" duration="816000" />
+      <workItem from="1669275646342" duration="404000" />
     </task>
     <servers />
   </component>
