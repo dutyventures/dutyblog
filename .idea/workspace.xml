@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="" />
+    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/_posts/2023-12-06-duty-blog-season-1-ending.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +107,8 @@
       <workItem from="1666784760759" duration="675000" />
       <workItem from="1667405074070" duration="664000" />
       <workItem from="1668004110714" duration="816000" />
-      <workItem from="1669275646342" duration="404000" />
+      <workItem from="1669275646342" duration="579000" />
+      <workItem from="1670454763549" duration="921000" />
     </task>
     <servers />
   </component>
