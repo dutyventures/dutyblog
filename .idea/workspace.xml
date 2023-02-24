@@ -43,18 +43,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/posts" />
-      <recent name="$PROJECT_DIR$/assets/images/logo" />
-      <recent name="$PROJECT_DIR$/assets/images/author" />
-      <recent name="$PROJECT_DIR$/_includes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/collections/_posts" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/logo" />
       <recent name="$PROJECT_DIR$/join-us" />
       <recent name="$PROJECT_DIR$/hire-us" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
+      <recent name="$PROJECT_DIR$/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/assets/images/author" />
+      <recent name="$PROJECT_DIR$/_includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,7 +105,9 @@
       <workItem from="1668004110714" duration="816000" />
       <workItem from="1669275646342" duration="579000" />
       <workItem from="1670454763549" duration="1096000" />
-      <workItem from="1673260507963" duration="1284000" />
+      <workItem from="1673260507963" duration="1732000" />
+      <workItem from="1676033941941" duration="147000" />
+      <workItem from="1677227784653" duration="990000" />
     </task>
     <servers />
   </component>
@@ -128,14 +130,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="273" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1664982607741">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="349" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677228477488">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="273" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1664982607741" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1665587197448">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-587.-1415.2560.1415@0.0.1440.900" timestamp="1657117549884" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1665587197448" />
+    <state x="349" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1677228477488" />
   </component>
 </project>
