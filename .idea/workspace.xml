@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="" />
+    <list default="true" id="c990cc16-17f6-4833-8339-193bd1a12cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/blog31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/_posts/2023-03-01-beginners-guide-artificial-intelligence-dutyventures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,18 +47,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
+      <recent name="$PROJECT_DIR$/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/assets/images/author" />
+      <recent name="$PROJECT_DIR$/_includes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/collections/_posts" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/logo" />
       <recent name="$PROJECT_DIR$/join-us" />
       <recent name="$PROJECT_DIR$/hire-us" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/posts" />
-      <recent name="$PROJECT_DIR$/assets/images/logo" />
-      <recent name="$PROJECT_DIR$/assets/images/author" />
-      <recent name="$PROJECT_DIR$/_includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,7 +111,9 @@
       <workItem from="1670454763549" duration="1096000" />
       <workItem from="1673260507963" duration="1732000" />
       <workItem from="1676033941941" duration="147000" />
-      <workItem from="1677227784653" duration="990000" />
+      <workItem from="1677227784653" duration="1558000" />
+      <workItem from="1677564746049" duration="1000" />
+      <workItem from="1678368426956" duration="202000" />
     </task>
     <servers />
   </component>
